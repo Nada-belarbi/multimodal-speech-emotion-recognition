@@ -28,7 +28,7 @@ Evaluation is performed using:
 - Leave-One-Speaker-Out (LOSO)
 
 ---
-## 🔗 Multimodal Fusion Strategy
+## Multimodal Fusion Strategy
 
 To combine audio and textual information, several fusion strategies were explored:
 
