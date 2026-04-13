@@ -41,7 +41,6 @@ To combine audio and textual information, several fusion strategies were explore
 - **Cross-Modal Interaction (Extended Model)**:  
   Additional interaction terms are introduced to capture relationships between audio and textual representations.
 
-These approaches allow us to evaluate how different levels of interaction between modalities impact model performance and generalization.
 ---
 
 ## 🧠 Key Findings
